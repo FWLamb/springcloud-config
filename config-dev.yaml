@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 config:
   info: myconfig
+=======
+config:
+  info: myconfig
+>>>>>>> 67fc0c106736d2aa289b9418d5cf826773c0076f
